@@ -1,0 +1,2 @@
+# DDosBin
+Nice ddos
